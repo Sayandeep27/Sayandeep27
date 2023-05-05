@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sayandeep27
 - 👀 I’m interested in - Data Structures and Algorithms and Competitive Programming
-- 💞️ I’m  currently - Pupil (1377*) Codeforces and solved 480+ questions on Leetcode
+- 💞️ I’m  currently - Pupil (1377*) Codeforces and solved 500+ questions on Leetcode
 - 🌱 Exploring Machine Learning and Data science
 
 
